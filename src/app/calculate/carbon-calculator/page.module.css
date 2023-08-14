@@ -1,0 +1,106 @@
+.mainPage {
+    height: 85vh;
+    position: realtive;
+}
+
+.bgColor {
+    background-color: black;
+    height: 52vh;
+    width:100%;
+    margin-top: 30vh;
+    position: absolute;
+    z-index: -1;
+}
+
+.bgImages {
+    height: 320px;
+    width: 86%;
+    margin: 70px 0 0 104px;
+    box-shadow: 2px 2px 4px 0px rgba(0,0,0,0.2);
+    position: absolute;
+    z-index: -1;
+}
+
+.bannerText {
+    width: 40%;
+    height: 52.4vh;
+    margin: 0px 0px 0px 100px;
+    background-color: white;
+    align-content: center;
+}
+
+.bannerText h2 {
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.bannerText h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: var(--font-roboto);
+    text-align: center;
+}
+
+.bannerfooter {
+    width: 60%;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin: 70px 0 0 300px;  
+}
+
+.bodyHeading {
+    height: 14vh;
+}
+
+.bodyHeading h1 {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 25px;  
+    margin-top: 30px;
+}
+
+.hrLine {
+    height: 2px;
+    width: 70%;
+    align-itself: center;
+    background-color: #D8E3E7;
+    margin-left: 240px;
+}
+
+.calculatorBody {
+
+    margin: 20px 0px 0px 160px;
+}
+
+.notice h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+.notice h2 {
+    padding-top: 16px;
+}
+
+.alertNotice {
+    width: 50%;
+    padding-top: 40px;
+}
+
+.stepperMain {
+    min-height: 86vh;
+    height: auto;
+    width: 84%;
+    border: 2px solid #B7C4CF;
+    margin: 40px 0px;
+}
+
+
+.stepper {
+    width: 80%;
+    margin: 20px;
+}

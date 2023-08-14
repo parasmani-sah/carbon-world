@@ -1,0 +1,87 @@
+.bgHome {
+    background-size: cover;
+    height: 87vh;
+    width: 100%;
+    opacity: 0.9;
+    position: absolute;
+    z-index: -1;
+}
+
+.heading {
+    padding-top: 70px;
+    margin: 0px 70px;
+}
+
+.heading h1 {
+    font-family: var(--font-roboto);
+    font-weight: 100px;
+    font-size: 80px;
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: 0.7;
+}
+
+.heading p {
+    font-family: var(--font-catamaran);
+    width:680px;
+    font-size:16px;
+    margin: 12px 0px;
+    word-spacing: 2px;
+    opacity: 0.6;
+}
+
+.btn {
+    margin: 80px 0px;
+}
+
+.button {
+    width: 12%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+    background-color: #55AE95;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.homeBody {
+    height: 60vh;
+    width: 100%;
+    position: relative;
+}
+
+.wrapper {
+    display: flex;
+    margin-top: 130px;
+}
+
+.leftside {
+    flex: 1;
+    padding-top: 40px;
+}
+
+
+.rightside {
+    font-family: var(--font-catamaran);
+    padding-left: 30px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.rightside h2 {
+    font-size: 40px;
+    font-weight: 60px;
+    
+}
+
+.line {
+    background: #55AE95;
+    height: 3px;
+    width: 100px;
+    margin-bottom: 25px;
+    
+}

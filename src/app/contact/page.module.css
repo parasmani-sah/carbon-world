@@ -1,0 +1,105 @@
+
+.bg {
+    background-image: url('../../../public/img5.jpg');
+    background-size: cover;
+    height: 350px;
+    width: 91.5%;
+    margin: 30px 90px 40px 65px;
+    opacity: 0.7;
+    border-radius: 4px;
+}
+
+.heading h1 {
+    color: #B7C4CF;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 100px;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.contactBody {
+    margin: 40px;
+}
+
+.contactBody h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.contactBody p {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.line {
+    background: #CFD2CF;
+    height: 3px;
+    width: 600px;
+    margin: 10px 0px 0px 420px;
+}
+
+.c {
+    height: 80vh;
+    width: 100%;
+    position: relative;
+}
+
+.cWrapper {
+    padding: 16px;
+    display: flex;
+}
+
+.cLeft {
+    flex: 1;
+    margin: 20px;
+    padding-left: 90px;
+}
+
+.cRight {
+    padding-left: 30px;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+.form {
+    margin-top: 20px;
+}
+
+.input {
+    width: 80%;
+    height: 50px;
+    border: none;
+    background-color: rgb(224, 224, 224);
+    border-radius: 5px;
+    margin: 15px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.textarea {
+    width: 80%;
+    margin: 10px 0px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(224, 224, 224);
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.button {
+    width: 21%;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    padding: 4px;
+    background-color: #56b2b2;
+    color: white;
+    font-weight: 500;
+    cursor: pointer;
+}
+

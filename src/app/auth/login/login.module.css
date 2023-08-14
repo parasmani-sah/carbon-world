@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+    position: realtive;
+    padding-top: 60px;
+}
+
+.leftsection {
+    flex: 1;
+}
+
+.rightsection {
+    flex: 1;
+}

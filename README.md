@@ -18,6 +18,24 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Screenshots
+
+![image](https://github.com/parasmani-sah/carbon-world/assets/47777250/eb704cca-9d8c-4577-acce-88cce8e26fab)
+
+![image](https://github.com/parasmani-sah/carbon-world/assets/47777250/f8ef277c-0eb6-4f74-a4b6-c506d0c2ac70)
+
+![image](https://github.com/parasmani-sah/carbon-world/assets/47777250/213ff1ee-d4e4-4479-9a7b-6f0f58df453a)
+
+![image](https://github.com/parasmani-sah/carbon-world/assets/47777250/255bbb05-dc7b-4b4f-b853-b773b3b2d658)
+
+![image](https://github.com/parasmani-sah/carbon-world/assets/47777250/e2dc1262-2912-4de4-ae24-a48fb5a4e26a)
+
+
+
+
+
+
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:

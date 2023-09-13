@@ -1,4 +1,5 @@
 import bgVideo from '../../public/Bg-Video.mp4'
+import styles from './page.module.css'
 import Link from 'next/link'
 import Image from 'next/image'
 import photo from '../../public/carbon-gas2.jpg'
